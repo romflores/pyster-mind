@@ -42,16 +42,18 @@ def get_correct_count(code, guess):
   #   return str(correct_ctr) + str(misplaced_ctr)
 
 
-print("####################################################")
-print("#        MASTER MIND!                              #")
-print("####################################################")
-print("  Guess the 4 number key combination.")
-print("  valid values are 1 to 6")
-print("  Each O means correct value and correct position")
-print("  Each X means correct value but incorrect position")
-print("  type quit, if you're a weakling!")
-print("  You have 15 attempts ... start guessing!")
-print("####################################################")
+print("######################################################")
+print("#        MASTER MIND!                                #")
+print("######################################################")
+print("#  Guess the 4 number key combination.               #")
+print("#  valid values are 1 to 6                           #")
+print("#  Each O means correct value and correct position   #")
+print("#  Each X means correct value but incorrect position #")
+print("#  type quit, if you're a weakling!                  #")
+print("#  You have 15 attempts ... start guessing!          #")        
+print("######################################################")
+print("# Written by: Romel FG Flores <rom.flores@gmail.com> #")
+print("######################################################")
 print("---->")
 
 # code = ["1","2","4","4"]
